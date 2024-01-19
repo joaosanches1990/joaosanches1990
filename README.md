@@ -1,5 +1,3 @@
-Sure, here is the profile again with a copy button:
-
 **João Sanches** | **Web Developer 🦾 | Game Enthusiast 🎮**
 
                   🕹️🎮 👾👾👾👾👾 🎮🕹️
