@@ -1,16 +1,33 @@
-### Hi there 👋
+João Sanches here
+## Web Developer 🦾 | Game Enthusiast 🎮
 
-<!--
-**joaosanches1990/joaosanches1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate web developer with a strong background in Ruby, JavaScript, and Python. 💪 I'm also an avid gamer, and I'm always looking for new ways to apply my skills to create engaging and immersive online experiences. 💻
 
-Here are some ideas to get you started:
+**Skills**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Ruby on Rails 🚂
+* JavaScript (including React and Vue.js) 🚀
+* Python 🐍
+* HTML5, CSS3 🎨
+* Databases (MySQL, PostgreSQL) 🗄️
+* Git 🧵
+* Version control 🔐
+
+**Projects**
+
+**Game Development Experience**
+
+
+**Additional Skills**
+
+* Excellent communication and collaboration skills 🤝
+* Strong problem-solving and analytical skills 🔍🧠
+* Ability to work independently and as part of a team 👨‍🔬🤝
+
+**Contact Information**
+
+**GitHub Profile**
+
+joaosanches1990 📄
+
+I'm excited to connect with other developers and game enthusiasts! 🎮🤝 Let's build something awesome together! 🤯
