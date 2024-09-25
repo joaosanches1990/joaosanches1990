@@ -1,5 +1,12 @@
 # 💫 About Me:
-I’m João, a Portuguese web developer, teacher, and freelancer with a deep passion for technology and creativity.<br>Over the years, I’ve developed a diverse set of skills, allowing me to work on various projects that range from web development to teaching and even freelancing for different clients.<br>As a VJ (Video Jockey),I combine my technical expertise with my artistic side, creating immersive visual experiences for events and performances.<br>When I’m not working, I love spending time outdoors, especially at the beach, where I can relax and recharge.<br>The ocean and the fresh air provide the perfect escape from my busy schedule, allowing me to find balance between work and leisure. <br>I’m also an avid gamer, and I enjoy diving into different gaming worlds as a way to unwind and stay connected with the latest trends in the gaming community.<br>This blend of professional and personal interests keeps me motivated, always eager to learn and grow in different fields. <br>Whether I’m coding, teaching, performing as a VJ, or simply enjoying the outdoors, I strive to bring passion and dedication to everything I do.
+I’m João, a Portuguese web developer 💻, teacher 📚, and freelancer 🧑‍💻 with a deep passion for technology and creativity.
+Over the years, I’ve developed a diverse set of skills, allowing me to work on various projects that range from web development 🌐 to teaching 👨‍🏫 and even freelancing for different clients.
+As a VJ (Video Jockey) 🎥, I combine my technical expertise with my artistic side, creating immersive visual experiences for events and performances.
+When I’m not working, I love spending time outdoors 🌳, especially at the beach 🏖️, where I can relax and recharge.
+The ocean 🌊 and the fresh air provide the perfect escape from my busy schedule, allowing me to find balance between work and leisure.
+I’m also an avid gamer 🎮, and I enjoy diving into different gaming worlds as a way to unwind and stay connected with the latest trends in the gaming community.
+This blend of professional and personal interests keeps me motivated 💪, always eager to learn and grow in different fields.
+Whether I’m coding 💻, teaching 📚, performing as a VJ 🎥, or simply enjoying the outdoors 🌞, I strive to bring passion and dedication to everything I do.
 
 
 ## 🌐 Socials:
